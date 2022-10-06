@@ -1,0 +1,6 @@
+.DS_Store
+.eslintcache
+package-lock.json
+
+# dependencies
+/node_modules
